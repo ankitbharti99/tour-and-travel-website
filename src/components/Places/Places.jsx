@@ -11,7 +11,7 @@ const PlacesData = [
   {
     img: Img1,
     title: "Boat",
-    location: "USA",
+    location: "Kerala",
     description: "lorem ipsum dolor sit amet consectetur adipisicing elit.",
     price: 6700,
     type: "Cultural Relax",
@@ -19,7 +19,7 @@ const PlacesData = [
   {
     img: Img2,
     title: "Taj Mahal",
-    location: "India",
+    location: "UP",
     description:
       "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.",
     price: 6700,
@@ -28,7 +28,7 @@ const PlacesData = [
   {
     img: Img3,
     title: "Underwater",
-    location: "US",
+    location: "Andamar & Nicobar Island",
     description:
       "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.",
     price: 6200,
